@@ -32,6 +32,9 @@ Resilient connection.
 
 http://tr.oyunkeyf.net/variant/duzokey
 
+### Ideas
+  * Mascot
+
 ### Screens
 
   ### Header
